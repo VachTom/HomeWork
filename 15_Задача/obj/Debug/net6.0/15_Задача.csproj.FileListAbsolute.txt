@@ -1,0 +1,30 @@
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.csproj.AssemblyReference.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.AssemblyInfoInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.AssemblyInfo.cs
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.csproj.CoreCompileInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\bin\Debug\net6.0\15_Задача.exe
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\bin\Debug\net6.0\15_Задача.deps.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\bin\Debug\net6.0\15_Задача.runtimeconfig.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\bin\Debug\net6.0\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\bin\Debug\net6.0\15_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\refint\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\15_Задача.genruntimeconfig.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\15_Задача\obj\Debug\net6.0\ref\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\bin\Debug\net6.0\15_Задача.exe
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\bin\Debug\net6.0\15_Задача.deps.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\bin\Debug\net6.0\15_Задача.runtimeconfig.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\bin\Debug\net6.0\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\bin\Debug\net6.0\15_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.csproj.AssemblyReference.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.AssemblyInfoInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.AssemblyInfo.cs
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.csproj.CoreCompileInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\refint\15_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\15_Задача.genruntimeconfig.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains_\3. Основной блок\3. Знакомство с языками программирования\_Практики\2 Практика\II_HomeWork\Work\15_Задача\obj\Debug\net6.0\ref\15_Задача.dll

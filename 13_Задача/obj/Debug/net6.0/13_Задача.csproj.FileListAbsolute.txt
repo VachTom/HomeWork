@@ -1,0 +1,15 @@
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\bin\Debug\net6.0\13_Задача.exe
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\bin\Debug\net6.0\13_Задача.deps.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\bin\Debug\net6.0\13_Задача.runtimeconfig.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\bin\Debug\net6.0\13_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\bin\Debug\net6.0\13_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.csproj.AssemblyReference.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.AssemblyInfoInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.AssemblyInfo.cs
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.csproj.CoreCompileInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\refint\13_Задача.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\13_Задача.genruntimeconfig.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\HomeWorks_Git\2 Практика\Work\13_Задача\obj\Debug\net6.0\ref\13_Задача.dll
