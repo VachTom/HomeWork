@@ -13,7 +13,7 @@ Zadacha15(number);
 
 void Zadacha15 (int currentNumber)
 {
-if    (number > 0 && number < 8) Console.Write("Да"); 
+if    (number > 5 && number < 8) Console.Write("Да"); 
 else  Console.Write("Нет");
 if    (number < 0 && number > 8) Console.Write("Не является днем недели"); 
 else  Console.Write("Нет");
