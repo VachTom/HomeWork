@@ -3,43 +3,25 @@
         645 -> 5
         78 -> третьей цифры нет
         32679 -> 6              */                                           
-
-
-
-
-//      Искал в интернете формулу ЕслиОшибка и наткунлся на такой код. (Нравится Excel. Но от написания кода просто тащусь)) 
 //                                                      ПЕРВЫЙ СПОСОБ
                                             Console.WriteLine("Введите число: ");
-
 //string number = Console.ReadLine();
 //Zadacha13(number);
 void Zadacha13(string currentNumber)
 {
         try
-        {
-            Console.Write(currentNumber[2]); 
-        }
+        {            Console.Write(currentNumber[2]); }
         catch
-        {
-            Console.WriteLine("Третьей цифры/СИМВОЛА нет");
-        }
+        {            Console.WriteLine("Третьей цифры/СИМВОЛА нет");}
         finally
         {
             Console.WriteLine();
             Console.WriteLine();
         }
 }
-
-
-
-
-
-
 //                                                      ВТОРОЙ СПОСОБ
-
 //int number2 = Convert.ToInt32(Console.ReadLine()); 
 //Zadacha13Alternativ(number2);
-
 void Zadacha13Alternativ(int alteNumber)
 {
    if      (alteNumber < 100)  Console.WriteLine("Третьей цифры нет.");
@@ -54,4 +36,24 @@ void Zadacha13Alternativ(int alteNumber)
    else if (alteNumber < 10000000000)      Console.WriteLine(alteNumber % 100000000    / 10000000);
 
    else if (alteNumber > 10000000000)      Console.WriteLine("Много лимонов");
+}
+
+
+/*      Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+        645 -> 5
+        78 -> третьей цифры нет
+        32679 -> 6              */ 
+
+
+void Zadacha13Alternativa(int alteNumber)
+{
+    while(alteNumber < 100)
+{
+
+
+
+
+
+    Console.WriteLine("Третьей цифры нет.");
+}
 }
